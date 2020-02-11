@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="adicionar_escola">Adicionar Escola</string>
+    <string name="ver_lista_de_escolas">Ver Lista de Escolas</string>
+</resources>

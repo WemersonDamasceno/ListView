@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+   <Button
+       android:id="@+id/buttonLista"
+       android:layout_centerHorizontal="true"
+       android:layout_centerVertical="true"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/ver_lista_de_escolas"/>
+
+
+   <Button
+       android:id="@+id/buttonAdd"
+       android:layout_below="@+id/buttonLista"
+       android:layout_centerHorizontal="true"
+       android:layout_centerVertical="true"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/adicionar_escola"/>
+
+
+
+
+
+
+</RelativeLayout>
